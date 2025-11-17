@@ -1,6 +1,6 @@
 # 🛍 Loja LeoTj - Artesanato Online
 
-Este projeto é um site simples e intuitivo desenvolvido para apoiar a loja de artesanato, a "LeoTj". O objetivo é oferecer uma vitrine online para os produtos artesanais, facilitando a visualização e o contato com os clientes.
+Este projeto é um site simples e intuitivo desenvolvido para apoiar a loja de artesanato "LeoTj". O objetivo é oferecer uma vitrine online para os produtos artesanais, facilitando a visualização e o contato com os clientes.
 
 ## 🚀 Acesse a Loja Online
 Visite a Loja LeoTj no Netlify:
